@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Exec=bash -c "sleep 2 && /home/linux_admin/Desktop/eDEX-UI.AppImage"
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=eDEX-UI
