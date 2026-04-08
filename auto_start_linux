@@ -1,3 +1,11 @@
+﻿chmod +x /home/linux_admin/Desktop/eDEX-UI.AppImage 
+
+mkdir -p ~/.config/autostart
+nano ~/.config/autostart/edex.desktop
+
+
+
+
 [Desktop Entry]
 Type=Application
 Exec=bash -c "sleep 2 && /home/linux_admin/Desktop/eDEX-UI.AppImage"
